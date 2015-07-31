@@ -1,0 +1,10 @@
+{
+    "require": {
+        "fg/bambam-core": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "Application": "src/"
+        }
+    }
+}
